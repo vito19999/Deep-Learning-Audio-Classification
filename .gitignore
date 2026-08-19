@@ -1,0 +1,6 @@
+# Ignora i dati e i file audio pesanti
+audio_sources/
+data/
+*.npz
+*.wav
+*.ogg
